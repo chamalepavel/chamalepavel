@@ -1,7 +1,7 @@
 <h2 align="center">Hi, my name is Pavel Chamale</h2>
 
 <p align="center">
-I'm a Full Stack Developer in progress from Guatemala. I enjoy building web applications, learning by working on real projects, and improving my skills step by step.
+I'm a Full Stack Developer. I enjoy building web applications, learning by working on real projects, and improving my skills step by step.
 </p>
 
 ---
